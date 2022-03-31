@@ -132,6 +132,7 @@ const App = () => {
   const addBad = () => {
     setBad(bad+1)
   }
+  
 
 
   return (
